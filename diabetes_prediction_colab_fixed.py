@@ -27,7 +27,6 @@ Original file is located at
 """
 
 # Install required packages (if not already installed)
-!pip install -q pandas numpy matplotlib seaborn scikit-learn joblib
 print("✅ Libraries installed!")
 
 """## 📥 Step 2: Download Dataset Automatically"""
