@@ -1,2 +1,0 @@
-# diabities_model
- 
